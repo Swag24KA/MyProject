@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe.config
+C:\Users\user\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+C:\Users\user\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Login.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.MainForm.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Properties.Resources.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.BookManager.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.Borrow.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.ReturnBook.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.ReaderManager.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.ReaderDel.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.UserManager.resources
+C:\Users\user\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.UserDel.resources
